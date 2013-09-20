@@ -1,0 +1,215 @@
+"accountid","accountcode","accountname","parent","accounttypename","currencyname","recordstatus"
+1,"111100","Kas Kecil BBD Plaza","","Kas","Rupiah",1
+2,"111200","Kas Besar BBD PLaza","","Kas","Rupiah",1
+3,"112110","Giro BRI 1","","Bank","Rupiah",1
+4,"112120","Giro BRI 2","","Bank","Rupiah",1
+5,"112121","BRI 3","","Bank","Rupiah",1
+6,"112122","Giro BRI Mangga Dua 1","","Bank","Rupiah",1
+7,"112123","Giro BRI Mangga Dua 2","","Bank","Rupiah",1
+8,"112124","BRI Kelapa Gading 3","","Bank","Rupiah",1
+9,"112125","BRI Switching","","Bank","Rupiah",1
+10,"112126","BRI Syariah","","Bank","Rupiah",1
+11,"112130","Giro BRI Valas 1","","Bank","Rupiah",1
+12,"112140","Giro BRI Valas 2","","Bank","Rupiah",1
+13,"112150","Deposito BRI KCK","","Bank","Rupiah",1
+14,"112160","BRI RC MK Konstruksi","","Bank","Rupiah",1
+15,"112170","BRI KI","","Bank","Rupiah",1
+16,"112180","Bank Agro","","Bank","Rupiah",1
+17,"112210","Giro Mandiri","","Bank","Rupiah",1
+18,"112211","Bank Mandiri 2","","Bank","Rupiah",1
+19,"112310","Giro BCA","","Bank","Rupiah",1
+20,"112410","Deposito Bank lain","","Bank","Rupiah",1
+21,"112510","Giro BNI","","Bank","Rupiah",1
+22,"121000","Surat Berharga","","Surat-surat Berharga","Rupiah",1
+23,"131100","Piutang Usaha","","Piutang Dagang","Rupiah",1
+24,"131200","Pendapatan masih harus diterima","","Piutang Dagang","Rupiah",1
+25,"131250","Cadangan Kerugian Piutang","","Piutang Dagang","Rupiah",1
+26,"132020","Piutang Pajak PPh ps 23","","Piutang Pajak","Rupiah",1
+27,"132021","Pajak Dibayar Dimuka (PPH 25)","","Piutang Pajak","Rupiah",1
+28,"132100","PPN Masukan","","Piutang Pajak","Rupiah",1
+29,"132030","Piutang lain-lain","","Piutang Lain-lain","Rupiah",1
+30,"133160","Cash Advance","","Piutang Lain-lain","Rupiah",1
+31,"141100","Persediaan","","Persediaan","Rupiah",1
+32,"151100","Premi asuransi kendaraan","","Biaya dibayar dimuka","Rupiah",1
+33,"151200","Premi Asuransi gedung/Kantor","","Biaya dibayar dimuka","Rupiah",1
+34,"151300","Premi asuransi peralatan VSAT","","Biaya dibayar dimuka","Rupiah",1
+35,"151400","Premi asuransi jaminan pelaksana","","Biaya dibayar dimuka","Rupiah",1
+36,"151500","Premi asuransi kesehatan","","Biaya dibayar dimuka","Rupiah",1
+37,"152100","Sewa tempat dibayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+38,"152200","Service charge dibayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+39,"152300","sewa gudang dibayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+40,"152400","Sewa transponder di bayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+41,"152500","Maintenance peralatan dibayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+42,"152600","Biaya pengadaan Critical spare dibayar dimuka","","Biaya dibayar dimuka","Rupiah",1
+43,"169999","Uang muka lainnya","","Biaya dibayar dimuka","Rupiah",1
+44,"171100","Inventaris kantor","","Harta Tetap Berwujud","Rupiah",1
+45,"171200","Akumulasi Penyusutan Inventaris kantor","","Harta Tetap Berwujud","Rupiah",1
+46,"172100","kendaraan","","Harta Tetap Berwujud","Rupiah",1
+47,"172200","Akumulasi Penyusutan kendaraan","","Harta Tetap Berwujud","Rupiah",1
+48,"173100","Mesin dan Peralatan","","Harta Tetap Berwujud","Rupiah",1
+49,"173200","Akumulasi Penyusutan Mesin dan Peralatan","","Harta Tetap Berwujud","Rupiah",1
+50,"174100","Peralatan akuisisi & relokasi","","Harta Tetap Berwujud","Rupiah",1
+51,"174200","Akumulasi penyusutan peralatan akuisisi","","Harta Tetap Berwujud","Rupiah",1
+52,"181100","Goodwill","","Harta Tetap Tidak Berwujud","Rupiah",1
+53,"181300","Penangguhan pembebanan transponder","","Beban ditangguhkan","Rupiah",1
+54,"181400","Penangguhan pembebanan backhaul","","Beban ditangguhkan","Rupiah",1
+55,"181600","Penangguhan pembebanan instalasi","","Beban ditangguhkan","Rupiah",1
+56,"181610","Penangguhan Biaya Survey Instalasi MPLS","","Beban ditangguhkan","Rupiah",1
+57,"181700","Biaya Mounting ditangguhkan","","Beban ditangguhkan","Rupiah",1
+58,"181800","Biaya Dismantle & relokasi ditangguhkan","","Beban ditangguhkan","Rupiah",1
+59,"181900","Beban sewa ditangguhkan","","Beban ditangguhkan","Rupiah",1
+60,"181901","Penangguhan pembebanan sewa wireless","","Beban ditangguhkan","Rupiah",1
+61,"181500","Pajak tangguhan","","Aktiva Pajak Tangguhan","Rupiah",1
+62,"153100","Uang muka pembelian asset","","Uang muka pengadaan aktiva ","Rupiah",1
+63,"181200","Lisensi & merk","","Lisennsi","Rupiah",1
+64,"133110","Deposit sewa kantor","","Jaminan","Rupiah",1
+65,"133111","Deposit mesin fotocopy","","Jaminan","Rupiah",1
+66,"133120","Deposit telepon","","Jaminan","Rupiah",1
+67,"133130","Deposit air mineral","","Jaminan","Rupiah",1
+68,"133140","Deposit Taksi","","Jaminan","Rupiah",1
+69,"133150","Deposit security Mabuhay","","Jaminan","Rupiah",1
+70,"211100","Hutang usaha","","Hutang ","Rupiah",1
+71,"213100","Biaya yang Masih Harus Dibayar","","Hutang ","Rupiah",1
+72,"213101","Deposit","","Hutang ","Rupiah",1
+73,"216100","Bagian lancar hutang","","Hutang ","Rupiah",1
+74,"217100","Hutang Deviden","","Hutang ","Rupiah",1
+75,"212100","PPN Keluaran","","Hutang Pajak","Rupiah",1
+76,"212200","Hutang PPh23","","Hutang Pajak","Rupiah",1
+77,"212300","Hutang PPh ps 4 ayat 2","","Hutang Pajak","Rupiah",1
+78,"212400","Hutang PPh 21","","Hutang Pajak","Rupiah",1
+79,"212500","Hutang PPh ps 25","","Hutang Pajak","Rupiah",1
+80,"212600","Hutang PPh ps 29 Badan","","Hutang Pajak","Rupiah",1
+81,"214100","Hutang bunga pinjaman","","Hutang bunga","Rupiah",1
+82,"215100","Hutang Lancar pada pihak ke tiga","","Hutang pada pihak ketiga","Rupiah",1
+83,"221100","Bagian lancar hutang afiliasi","","Hutang Afiliasi","Rupiah",1
+84,"221101","Hutang lancar afiliasi Dana Pensiun","","Hutang Afiliasi","Rupiah",1
+85,"221102","Hutang lancar afiliasi YKP","","Hutang Afiliasi","Rupiah",1
+86,"221103","Hutang lancar afiliasi BRI Mangga Dua","","Hutang Afiliasi","Rupiah",1
+87,"221104","Hutang lancar afiliasi BRI Syariah","","Hutang Afiliasi","Rupiah",1
+88,"231100","Hutang jangka panjang","","Hutang Jangka Panjang","Rupiah",1
+89,"241100","Hutang Afiliasi Jangka panjang","","Hutang Jangka Panjang","Rupiah",1
+90,"241101","Hutang Afiliasi Jangka Panjang Dana Pensiun","","Hutang Jangka Panjang","Rupiah",1
+91,"241102","Hutang Afiliasi Jangka Panjang  BRI Mangga ","","Hutang Jangka Panjang","Rupiah",1
+92,"241103","Hutang Afiliasi Jangka Panjang BRI Syariah","","Hutang Jangka Panjang","Rupiah",1
+93,"251100","Imbalan Pasca Kerja","","Hutang Jangka Panjang","Rupiah",1
+94,"311100","Modal PT Bringin Gigantara","","Modal","Rupiah",1
+95,"311101","Modal Dana Pensiun BRI","","Modal","Rupiah",1
+96,"311102","Modal YKP BRI","","Modal","Rupiah",1
+97,"311200","Modal PT Datasel","","Modal","Rupiah",1
+98,"311300","Modal Belum Disetor","","Modal","Rupiah",1
+99,"312100","Saham agio","","Modal","Rupiah",1
+100,"321100","Laba ditahan tahun lalu","","Laba","Rupiah",1
+101,"321200","Laba Tahun Berjalan","","Laba","Rupiah",1
+102,"329990","Historical Balancing","","Laba","Rupiah",1
+103,"411100","Pendapatan jasa VSAT","","Pendapatan Usaha","Rupiah",1
+104,"411200","Pendapatan Jasa MPLS","","Pendapatan Usaha","Rupiah",1
+105,"411300","Pendapatan jasa E-learning","","Pendapatan Usaha","Rupiah",1
+106,"411400","Pendapatan jasa Transponder","","Pendapatan Usaha","Rupiah",1
+107,"411500","Pendapatan jasa VPN 3G","","Pendapatan Usaha","Rupiah",1
+108,"412100","Pendapatan jasa survey & instalasi","","Pendapatan Usaha","Rupiah",1
+109,"413100","Pendapatan jasa Dismantling & relokasi","","Pendapatan Usaha","Rupiah",1
+110,"414100","Pendapatan service & utility","","Pendapatan Usaha","Rupiah",1
+111,"415100","Jasa mitra KSO","","Pendapatan Usaha","Rupiah",1
+112,"415101","Jasa mitra KSO e learning","","Pendapatan Usaha","Rupiah",1
+113,"416100","Pendapatan GPRS","","Pendapatan Usaha","Rupiah",1
+114,"417000","Pendapatan Perangkat Router","","Pendapatan Usaha","Rupiah",1
+115,"418000","Pendapatan Denda Keterlambatan","","Pendapatan Usaha","Rupiah",1
+116,"419000","Pendapatan atas Pengantaran","","Pendapatan Usaha","Rupiah",1
+117,"511100","Biaya sewa transponder","","Biaya Produksi","Rupiah",1
+118,"512100","Biaya sewa peralatan","","Biaya Produksi","Rupiah",1
+119,"512200","Biaya sewa wireless","","Biaya Produksi","Rupiah",1
+120,"513100","Biaya maintenance peralatan","","Biaya Produksi","Rupiah",1
+121,"514100","Biaya survey & instalasi","","Biaya Produksi","Rupiah",1
+122,"514101","Biaya survey & instalasi 1000 ATM","","Biaya Produksi","Rupiah",1
+123,"515100","Biaya dismantle & relokasi","","Biaya Produksi","Rupiah",1
+124,"516100","Biaya asuransi perangkat","","Biaya Produksi","Rupiah",1
+125,"517000","Potongan Pembelian","","Biaya Produksi","Rupiah",1
+126,"517100","Backhaul link","","Biaya Produksi","Rupiah",1
+127,"517200","GPRS link","","Biaya Produksi","Rupiah",1
+128,"517300","Biaya perangkat router","","Biaya Produksi","Rupiah",1
+129,"518000","Biaya atas Pengiriman Barang","","Biaya Produksi","Rupiah",1
+130,"519100","Biaya Mounting","","Biaya Produksi","Rupiah",1
+131,"520100","Biaya penempatan perangkat","","Biaya Produksi","Rupiah",1
+132,"521100","Biaya penggunaan frekuensi","","Biaya Produksi","Rupiah",1
+133,"522100","Biaya penyelengaraan frekuensi (uso)","","Biaya Produksi","Rupiah",1
+134,"523100","Biaya Marketing fee","","Biaya Produksi","Rupiah",1
+135,"524100","Biaya critical spare","","Biaya Produksi","Rupiah",1
+136,"523000","Biaya Denda Keterlambatan","","Biaya Lain","Rupiah",1
+137,"524000","Biaya Jasa marketing","","Biaya Lain","Rupiah",1
+138,"611100","Biaya alat tulis kantor","","Biaya Operasional","Rupiah",1
+139,"611110","Biaya asuransi","","Biaya Operasional","Rupiah",1
+140,"611120","Biaya asosiasi","","Biaya Operasional","Rupiah",1
+141,"611130","Biaya pemeliharaan peralatan kantor","","Biaya Operasional","Rupiah",1
+142,"611140","Biaya maintenance sistem pembukuan","","Biaya Operasional","Rupiah",1
+143,"611200","Biaya eksploitasi kendaraan","","Biaya Operasional","Rupiah",1
+144,"611300","Listrik, Air dan Telpon, internet","","Biaya Operasional","Rupiah",1
+145,"611400","Housekeeping","","Biaya Operasional","Rupiah",1
+146,"611500","Biaya Training & pendidikan","","Biaya Operasional","Rupiah",1
+147,"611600","Biaya Honorarium rapat","","Biaya Operasional","Rupiah",1
+148,"611610","Biaya penghapusan piutang tak tertagih","","Biaya Operasional","Rupiah",1
+149,"611700","Kesekertariatan","","Biaya Operasional","Rupiah",1
+150,"611800","Biaya perjalanan dinas","","Biaya Operasional","Rupiah",1
+151,"611900","Biaya notaris & dokumen","","Biaya Operasional","Rupiah",1
+152,"612100","Gaji pokok","","Biaya Operasional","Rupiah",1
+153,"612111","Tunjangan transport","","Biaya Operasional","Rupiah",1
+154,"612112","Tunjangan makan","","Biaya Operasional","Rupiah",1
+155,"612113","Uang lembur","","Biaya Operasional","Rupiah",1
+156,"612114","Tunjangan perumahan","","Biaya Operasional","Rupiah",1
+157,"612115","Tunjangan handpone","","Biaya Operasional","Rupiah",1
+158,"612116","Tunjangan hari raya","","Biaya Operasional","Rupiah",1
+159,"612117","Biaya kesehatan","","Biaya Operasional","Rupiah",1
+160,"612118","Honorarium pegawai","","Biaya Operasional","Rupiah",1
+161,"612119","THT, Astek,Prospen","","Biaya Operasional","Rupiah",1
+162,"612120","PPh 21 Ditanggung perusahaan","","Biaya Operasional","Rupiah",1
+163,"612121","Jaminan hari tua","","Biaya Operasional","Rupiah",1
+164,"612122","Jaminan kematian (JKM)","","Biaya Operasional","Rupiah",1
+165,"612123","Jaminan kecelakaan kerja (JKK)","","Biaya Operasional","Rupiah",1
+166,"612124","Tunjangan jabatan","","Biaya Operasional","Rupiah",1
+167,"612125","Tunjangan perusahaan","","Biaya Operasional","Rupiah",1
+168,"612126","Tunjangan kedukaan","","Biaya Operasional","Rupiah",1
+169,"612127","Tunjangan persalinan","","Biaya Operasional","Rupiah",1
+170,"612128","Biaya Pensiun & Pesangon","","Biaya Operasional","Rupiah",1
+171,"612129","Insentif Karyawan","","Biaya Operasional","Rupiah",1
+172,"612130","Biaya manfaat karyawan","","Biaya Operasional","Rupiah",1
+173,"612131","DPLK","","Biaya Operasional","Rupiah",1
+174,"612132","Jaminan Pemeliharaan Kesehatan (JPK)","","Biaya Operasional","Rupiah",1
+175,"612133","Bonus karyawan","","Biaya Operasional","Rupiah",1
+176,"612134","Tunjangan khusus","","Biaya Operasional","Rupiah",1
+177,"612210","Biaya rekruitment","","Biaya Operasional","Rupiah",1
+178,"612228","Tunjangan cuti","","Biaya Operasional","Rupiah",1
+179,"612229","Tunjangan Kemahalan","","Biaya Operasional","Rupiah",1
+180,"612310","Biaya sewa kantor","","Biaya Operasional","Rupiah",1
+181,"612311","Biaya service Charge","","Biaya Operasional","Rupiah",1
+182,"612312","Biaya kendaraan","","Biaya Operasional","Rupiah",1
+183,"612313","Biaya sewa parkir","","Biaya Operasional","Rupiah",1
+184,"612314","Biaya gudang","","Biaya Operasional","Rupiah",1
+185,"612315","Biaya sewa penempatan antena","","Biaya Operasional","Rupiah",1
+186,"612410","Biaya representasi direksi","","Biaya Operasional","Rupiah",1
+187,"612510","Biaya riset & pengembangan","","Biaya Operasional","Rupiah",1
+188,"612610","Promosi dan Iklan","","Biaya Operasional","Rupiah",1
+189,"612710","Biaya HRD","","Biaya Operasional","Rupiah",1
+190,"612711","Biaya konsultan","","Biaya Operasional","Rupiah",1
+191,"612712","Auditor","","Biaya Operasional","Rupiah",1
+192,"612713","Biaya konsultan lainnya","","Biaya Operasional","Rupiah",1
+193,"612714","Biaya lain-lain","","Biaya Operasional","Rupiah",1
+194,"612715","Beban Pajak","","Biaya Operasional","Rupiah",1
+195,"661100","Biaya penyusutan inventaris kantor","","Biaya Non Operasional","Rupiah",1
+196,"662100","Penyusutan Kendaraan","","Biaya Non Operasional","Rupiah",1
+197,"663100","Penyusutan Mesin dan Peralatan","","Biaya Non Operasional","Rupiah",1
+198,"664100","Penyusutan peralatan akuisisi","","Biaya Non Operasional","Rupiah",1
+199,"665100","Amortisasi lisensi &merk","","Biaya Non Operasional","Rupiah",1
+200,"666100","Beban Piutang tak tertagih","","Biaya Non Operasional","Rupiah",1
+201,"811100","Pendapatan jasa giro","","Pendapatan Luar Usaha","Rupiah",1
+202,"811200","Pendapatan bunga deposito","","Pendapatan Luar Usaha","Rupiah",1
+203,"811300","Pendapatan non operasi lainnya","","Pendapatan Luar Usaha","Rupiah",1
+204,"811400","Penghasilan pajak tangguhan","","Pendapatan Luar Usaha","Rupiah",1
+205,"910000","Pengeluaran Luar Usaha","","Pengeluaran Luar Usaha","Rupiah",1
+206,"911100","Biaya adm bank","","Pengeluaran Luar Usaha","Rupiah",1
+207,"911200","Biaya pajak atas bunga","","Pengeluaran Luar Usaha","Rupiah",1
+208,"911300","Biaya provisi & telex","","Pengeluaran Luar Usaha","Rupiah",1
+209,"911310","Biaya non operasional lainnya","","Pengeluaran Luar Usaha","Rupiah",1
+210,"911400","Beban bunga pinjaman","","Pengeluaran Luar Usaha","Rupiah",1
+211,"911500","Sumbangan & donasi","","Pengeluaran Luar Usaha","Rupiah",1
+212,"912100","Laba/rugi selisih kurs","","Pengeluaran Luar Usaha","Rupiah",1
+213,"930000","Biaya Deviden","","Pengeluaran Luar Usaha","Rupiah",1
+214,"920000","Pajak Penghasilan","","Pajak Badan","Rupiah",1

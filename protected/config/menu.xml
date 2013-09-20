@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item>
+    <label>'User: '.CHtml::encode(Yii::app()->user->name);</label>
+    <url>array('site/index');</url>
+  </item>
+  <item>
+    <label>'File';</label>
+    <visible>Yii::app()->params["isfile"];</visible>
+    <items>
+      <item>
+         <label>'Home';</label>
+         <url>array('site/index');</url>
+      </item>
+      <item>
+         <label>'Login';</label>
+         <url>array('site/login');</url>
+         <visible>Yii::app()->user->isGuest;</visible>
+      </item>
+      <item>
+         <label>'Logout';</label>
+         <url>array('site/logout');</url>
+         <visible>!Yii::app()->user->isGuest;</visible>
+      </item>
+      <item>
+         <label>'Change Profile';</label>
+         <url>array('/changeprofile');</url>
+         <visible>!Yii::app()->user->isGuest;</visible>
+      </item>
+    </items>
+  </item>
+  <item>
+    <label>'System';</label>
+    <visible>Yii::app()->params["issystem"];</visible>
+    <url>array('/company/index');</url>
+    <items>
+       <item>
+         <label>'Company - sco';</label>
+         <url>array('/company/index');</url>
+         <visible>!Yii::app()->user->isGuest;</visible>
+       </item>
+       <item>
+         <label>'Object Authentication';</label>
+         <visible>!Yii::app()->user->isGuest;</visible>
+         <items>
+           <label>'User Access - sua';</label>
+           <url>array('/useraccess/index');</url>
+           <visible>!Yii::app()->user->isGuest</visible>
+         </items>
+       </item>
+    </items>
+  </item>
+</items>
+

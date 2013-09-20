@@ -1,0 +1,107 @@
+#nav-container {
+	background-image: -moz-linear-gradient(top, #6d7482 10%, #475063 50%, #40434a 80%);
+	background-image: -webkit-linear-gradient(top, #6d7482 10%, #475063 50%, #40434a 80%);
+	background-image: -ms-linear-gradient(top, #6d7482 10%, #475063 50%, #40434a 80%);
+	background-image: -o-linear-gradient(top, #6d7482 10%, #475063 50%, #40434a 80%);
+	background-image: linear-gradient(top, #6d7482 10%, #475063 50%, #40434a 80%);
+	background-color: #475063;
+	}
+
+#nav span {
+    padding: 20px 0;
+}
+
+#nav-bar { 
+	width: 960px;
+	margin: 0 auto;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	}
+	
+#nav > li {
+	display: inline-block;
+	list-style-type: none;
+	font-size: 13px;
+	height: 30px;
+	margin-right: -5px;
+	background: url(../images/nav1_sep.gif) no-repeat 0 6px;
+	}
+
+#nav li { text-align: left; }
+
+#nav > li:first-child {
+	background: none;
+	}
+
+#nav > li > a {
+	color: #d8deeb;
+	text-decoration: none;
+	padding: 6px 10px;
+	}
+
+#nav > li > a:hover,
+#nav > li > a:focus {
+	background-image: -moz-linear-gradient(top, #ff4a4a 10%, #990606 50%, #bf2d00 80% );
+	background-image: -webkit-linear-gradient(top, #ff4a4a 10%, #990606 50%, #bf2d00 80% );
+	background-image: -ms-linear-gradient(top, #ff4a4a 10%, #990606 50%, #bf2d00 80% );
+	background-image: -o-linear-gradient(top, #ff4a4a 10%, #990606 50%, #bf2d00 80% );
+	background-image: linear-gradient(top, #ff4a4a 10%, #990606 50%, #bf2d00 80% );
+	background-color: #990606;
+	}
+
+#nav 	li ul {
+	padding: 0;
+	background-color: #26323b;
+	list-style-type: none;
+	position: absolute;
+	float: left;
+	width: 200px;
+	z-index: 55;
+}
+
+#nav li ul,
+#nav li ul li ul {
+	visibility: hidden;
+	}
+
+#nav li:hover > ul {
+	visibility: visible;
+	}
+
+#nav li ul li:hover {
+	background-color: rgba(0,0,0,0.4);
+	}
+
+#nav li ul li {
+	line-height: 25px;
+	padding: 0 8px;
+	border-bottom: dotted 1px #6582a3;
+}
+
+#nav li ul li:last-child { border: none; }
+
+#nav li ul li ul {
+	position: absolute;
+	margin-top: -25px;
+	left: 100%;
+}
+
+#nav li ul li a,
+#nav li ul li ul li a {
+	color: #fff;
+}
+
+#nav li ul li:hover > a,
+#nav li ul li ul li:hover > a {
+	color: #0099ff;
+}
+
+#nav a {
+	text-decoration: none;
+	}
+	
+	#nav li:hover > ul,
+#nav li a:hover > ul {
+ display: block;
+ }

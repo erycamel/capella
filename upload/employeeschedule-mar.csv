@@ -1,0 +1,79 @@
+NIP,Employee Name,month,year,d1,d2,d3,d4,d5,d6,d7,d8,d9,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
+00037402,Mustofa,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00047502,Purnomo Widiharsono,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00058102,Purwanto Eko Setiawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00068002,Antonius Dony Suryo Handoyo,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00086602,Saidin,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00097603,Donny Noerjal,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00106503,Laksmana Budi Indrasmawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00116503,Johnson Butar Butar,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00126603,Dede Suryadi,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00137503,Alexander Mikail,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00147503,Anggoro Tri Cahyono,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00157103,Abd. Kadir,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00166803,W.P Bagus Hendartono,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00177603,Suwandi,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00206204,Andi Herdiansah Sanaf,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00228004,Arief Setyawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00247805,Achmad Syamsul Bahri,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00258505,Haris,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00268305,Ibnu Affan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00308205,Yosep Firmansyah,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00318106,Agus Rachmat,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00328506,Budi Supriyanto,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00357806,Roni Hendrawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00368106,Rizal Fahlefi,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00378106,Anwar Yusef,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00388306,Ricky Dodo Banjar Nahor,3,2012,S3,S3,L,S2,S2,S2,L,L,L,L,L,S3,S3,S3,L,S2,S2,S2,L,S1,,,,,,,,,,,
+00398206,Yudi Ariyanto,3,2012,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2
+00408006,Maurinus Ris Eka Tianto,3,2012,S1,S1,L,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L
+00418106,Arpan Aco,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00427706,Indra Syaputra,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00438006,Aris Susanto,3,2012,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S12,S12,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1
+00448107,Wukir ,3,2012,S2,S2,S2,L,S123,L,L,L,S3,1+3,S3,S1,S2,S2,S12,L,S1,S1,S1,L,,,,,,,,,,,
+00458407,Nofi Setiawan,3,2012,S3,S3,L,S2,L,S123,L,S1,S1,S1,L,L,L,L,L,S2,S2,S2,L,S1,,,,,,,,,,,
+00477508,Tatang Rosyadi,3,2012,L,L,S3,S3,S3,L,S2,S12,S2,L,S1,S1,S12,L,S3,S3,S3,L,S2,S2,,,,,,,,,,,
+00487908,Feri Fernandes,3,2012,S1,S1,S1,S1,L,L,L,L,L,L,S2,S2,L,S1,S1,S1,L,S3,S3,S3,,,,,,,,,,,
+00498010,Budi Hariyanto,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00578310,Taufik Hidayat,3,2012,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3
+00588510,Dedy Rahmono,3,2012,L,L,S3,S3,L,L,S12,S2,S12,L,S1,L,S1,L,S3,S3,S3,L,S2,S2,,,,,,,,,,,
+00618710,Arif Gunawan (Hadiwibowo),3,2012,L,S12,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,L,S1,L,S3,S3,S3,,,,,,,,,,,
+00638110,Zen Helmi (Shahab),3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00648410,Tio Adian Yusup Rifaie,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00658110,Syamsul Anwar,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00668410,Husynu Zhon,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00708611,Suwito Pamungkas,3,2012,S3,S3,L,L,S1,S1,S1,S1,S1,S1,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L,L,S2,S2,S2,S2,S2,L
+00738911,Arif Riyanto,3,2012,L,S2,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L,S1,S1,S1,L,S3,S3,S3,L,S2,S2,S2,L
+00757511,Eko Hadi Subeno,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00776211,Awiek Sutjiobudi SE,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00788311,Yayan Achmadani,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00799011,Ilham Saputra,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00807511,Triyoga Widodo,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00818311,Taufik Marwawi,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00826911,Nurdin,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00839011,Yudha Libratama,3,2012,S2,L,S2,L,S1,S1,S1,L,S3,S3,S3,L,L,S2,S2,L,S1,S1,S1,L,,,,,,,,,,,
+00848911,Rhoby Murpramada,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00857911,Dimas C. Pratama,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00868911,Candra Pelita Setyono,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00889011,Rahmatullah Febrian Romy Setiawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00898211,Irvan Hendrawan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00908911,Mohamad Nur Fajar,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00918912,Ahmad Hudori,3,2012,S2,S2,L,L,S1,S1,S1,S1,S1,L,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L,L,S2,S2,S2,S2,S2,L
+00927812,Muhammad A. Rafiq,3,2012,S1,S1,L,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L,L,S2,S2,S2,S2,S2,L,L,S1,S1,S1,S1,S1,L
+00938512,Dede Herdiansyah,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00076002,Eni Yuniartin,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00218004,Irma Rachmawaty,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00237605,Evi Kusdyarti,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00287905,Diyan Hermintarti SE,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00298105,R. Hilda Zikrillah,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00337006,Dorothea Maria Kusiwansari,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00347806,Sulistya,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00468307,Greta Aryuan,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00505308,Retno Widayati,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00548510,Chofifah,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00558810,Yosrianti Pramana,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00698611,Nikentari Warih,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00718911,Dewi Lestari,3,2012,N,N,L,L,N,N,,,,,,,,,,,,,,,,,,,,,,,,,
+00728811,Winni Septalia,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00748111,Rosidah,3,2012,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,N,N,L
+00878911,Syamiah Tul Rochmah,3,2012,N,N,N,L,L,N,N,L,N,N,L,L,N,N,L,N,N,L,L,N,N,N,N,N,L,L,N,N,N,*,*

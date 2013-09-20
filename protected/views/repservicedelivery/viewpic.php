@@ -1,0 +1,20 @@
+<?php
+$this->breadcrumbs=array(
+	'Projectdocs',
+);
+$pageSize=Yii::app()->user->getState('pageSize',Yii::app()->params['defaultPageSize']);
+?>
+<?php
+$this->widget('zii.widgets.grid.CGridView', array(
+	'id'=>'inpicdatagrid',
+	'dataProvider'=>$projectpic->search(),
+	'template'=>'{pager}<br>{items}{pager}',
+	'columns'=>array(
+		'picname',
+		'picdept',
+		'pictelp',
+		'picemail',
+		'picfunction'
+  ),
+));
+?>

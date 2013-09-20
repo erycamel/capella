@@ -1,0 +1,136 @@
+productid,productname,productpic,recordstatus
+1,Attenuator FC/PC 15 dB     ,,1
+2,Attenuator FC/PC 10 dB     ,,1
+3,Balhead FC Coupling  BL FC   ,,1
+4,Bracket Dead End  BDE   ,,1
+5,Bracket Suspension  BS   ,,1
+6,Bracket Suspension Karet  BSK   ,,1
+7,Buldog Creap   BC   ,,1
+8,Bracket Dead End Buaya   BDE - B   ,,1
+9,Cable Ties @ 10 Cm  CT 10   Sigma,,1
+10,Cable Ties @ 15 Cm  CT 15   Sigma,,1
+11,Cable Ties @ 20 Cm  CT 20   Sigma,,1
+12,Cable Ties @ 25 Cm  CT 25   Sigma,,1
+13,Cable Ties @ 30 Cm  CT 30   Sigma,,1
+14,Cable Ties Label   CT L   ,,1
+15,Cassette 12 Core  CS - 12   ,,1
+16,Cassette 24 Core  CS - 24   ,,1
+17,Cassette 36 Core  CS - 36   ,,1
+18,"Cable 24 Core, SM     Datwayler ",,1
+19,"Flexible PVC 1""   FLX - 1 WHT   ",,1
+20,"Flexible PVC 3/4""  FLX - 3/4 WHT   ",,1
+21,Gantry Box  GBX   ,,1
+22,Join Box / Join Clousure 12 C  JB CH 12   Channel,,1
+23,Join Box / Join Clousure 24 C  JB CH 24   Channel,,1
+24,Join Box / Join Clousure 48 C  JB CH 48   Channel,,1
+25,Join Box / Join Clousure 96 C  JB CH 96   Channel,,1
+26,Join Box / Join Clousure 96 C  JB 3M 96   3M,,1
+27,Dome Closure 12 Core   JB D 12   Taiko ,,1
+28,Dome Closure 24 Core   JB D 24   Taiko ,,1
+29,Dome Closure 48 Core   JB D 48   Taiko ,,1
+30,Dome Closure 24 Core   JB D 24   NWC,,1
+31,Dome Closure 48 Core   JB D 48   NWC,,1
+32,Dome Closure 96 Core   JB D 96   NWC,,1
+33,Join Box In Line / Join Closure In Line 12 C  JB IL 12   3M,,1
+34,Join Box In Line / Join Closure In Line 12 C  JB IL 12   Core ,,1
+35,Join Box In Line / Join Closure In Line 24 C  JB IL 24   3M,,1
+36,Join Box In Line / Join Closure In Line 48 C  JB IL 48   NWC,,1
+37,Join Box In Line / Join Closure In Line 96 C  JB IL 96   3M,,1
+38,Manhole 50 X 50 cm  MH 50   ,,1
+39,Manhole 80 X 80 cm  MH 80   ,,1
+40,Manhole 100 X 100 cm  MH 100   ,,1
+41,ODF / Optical Distribution Frame 6 C  ODF 6 C - SPT   Spotlink ,,1
+42,ODF / Optical Distribution Frame 12 C  ODF 12 C - S   Soluna,,1
+43,ODF / Optical Distribution Frame 12 C  ODF 12 C - S ( SC/PC )   Soluna,,1
+44,ODF / Optical Distribution Frame 12 C  ODF 12 C - S ( SC/APC )   Soluna,,1
+45,ODF / Optical Distribution Frame 12 C  ODF 12 C - 3M   3M,,1
+46,ODF / Optical Distribution Frame 24 C  ODF 24 C - S   Soluna,,1
+47,ODF / Optical Distribution Frame 24 C  ODF 24 C - S (SC/PC)   Soluna,,1
+48,ODF / Optical Distribution Frame 24 C  ODF 24 C - 3M   3M,,1
+49,ODF / Optical Distribution Frame  48 C  ODF 48 C - S   Soluna,,1
+50,ODF / Optical Distribution Frame  48 C  ODF 48 C - 3M   3M,,1
+51,ODF / Optical Distribution Frame  48 C  ODF 48 C - SC/PC   Soluna,,1
+52,ODF / Optical Distribution Frame  48 C  ODF 48 C - SC/APC   3M,,1
+53,ODF / Optical Distribution Frame 96 C  ODF 96 C - 3M    3M,,1
+54,ODF / Optical Distribution Frame 96 C  ODF 96 C - 3M (SC/PC)   3M,,1
+55,ODF / Optical Distribution Frame 96 C  ODF 96 C - AC   ADC Crone,,1
+56,OTB / Optical Terminal Box 6 C  OTB 6 C - SPT   Spotlink ,,1
+57,OTB / Optical Terminal Box 12 C  OTB 12 C - S (SC-PC)   Soluna,,1
+58,OTB / Optical Terminal Box 12 C  OTB 12 C    Soluna,,1
+59,OTB / Optical Terminal Box 12 C  OTB 12 C - 3M   3M,,1
+60,OTB / Optical Terminal Box 24 C  OTB 24 C - S   Soluna,,1
+61,OTB / Optical Terminal Box 48 Core ( SC/PC )  OTB 48 C - 3M ( SC/PC )   3M,,1
+62,OTB / Optical Terminal Box 48 Core ( SC/APC )  OTB 48 C - 3M ( SC/APC )   3M,,1
+63,OTB / Optical Terminal Box 4 Core ( FC/PC )  OTB 4 C (FC/PC)   Core ,,1
+64,OTB / Optical Terminal Box 4 Core ( SC/PC )  OTB 4 C (SC/PC)   Core ,,1
+65,OTB / Optical Terminal Box 4 Core ( SC/APC )  OTB 4 C (SC/APC)   Core ,,1
+66,Patchcore @ 20 M - FO  FC/PC - SC/PC 20 M   ,,1
+67,Patchcore @ 3  M - FO  FC/APC - FC/APC 3 M   ,,1
+68,Patchcore @ 15 M - FO  FC/PC - FC/APC 15 M   ,,1
+69,Patchcore @ 10 M - FO   FC/PC - FC/PC 10 M   ,,1
+70,Patchcore @ 15 M - FO  FC/PC - FC/PC 15 M   ,,1
+71,Patchcore @ 2 M - FO  FC/PC - FC/PC 2 M   ,,1
+72,Patchcore @ 20 M - FO  FC/PC - FC/PC 20 M   ,,1
+73,Patchcore @ 3 M - FO  FC/PC - FC/PC 3 M   ,,1
+74,Patchcore @ 30 M - FO  FC/PC - FC/PC 30 M   ,,1
+75,Patchcore @ 5 M - FO  FC/PC - FC/PC 5 M   ,,1
+76,Patchcore @ 6 M - FO  FC/PC - FC/PC 6 M   ,,1
+77,Patchcore @ 5 M - FO  FC/PC - LC/PC 5 M    ,,1
+78,Patchcore @ 10 M - FO  FC/PC - LC/PC 10 M    ,,1
+79,Patchcore @ 15 M - FO  FC/PC - SC/PC 15 M   ,,1
+80,Patchcore @ 2 M - FO  FC/PC - SC/PC 2 M   ,,1
+81,Patchcore @ 3 M - FO  FC/PC - SC/PC 3 M   ,,1
+82,Patchcore @ 5 M - FO  FC/PC - SC/PC 5 M   ,,1
+83,Patchcore @ 5 M - FO  SC/APC - SC/APC 5 M   ,,1
+84,Patchcore @ 15 M - FO  SC/PC - FC/APC 15 M   ,,1
+85,Patchcore @ 5 M - FO  SC/PC - FC/APC 5 M   ,,1
+86,Patchcore @ 2 M - FO  SC/PC - SC/APC 2 M   ,,1
+87,Patchcore @ 3 M - FO  SC/PC - SC/PC 3 M (Simp)   ,,1
+88,Patchcore @ 3 M - FO  SC/PC - SC/PC 3 M (Duplex)   ,,1
+89,Patchcore @ 3 M - FO  LC/PC - SC/PC 3 M (Duplex)   ,,1
+90,Patchcore @ 3 M - FO  SC/PC - SC/PC 3 M 62.5 um (Duplex)   ,,1
+91,Patchcore @ 2 M - FO  SC/PC - SC/PC 2 M   ,,1
+92,Patchcore @ 10 M - FO  FC/PC - SC/PC 10 M   ,,1
+93,Patchcore @ 5M - FO  SC/APC-SC/PC 5M (Duplex)   ,,1
+94,Patchcore @ 3 M - FO  SC/APC-SC/APC 3 M (Duplex)   ,,1
+95,Patchcore @ 3 M - FO  SC/APC - SC/APC 3 M   ,,1
+96,Patchcore @ 3 M - FO  ST/PC - ST/PC D 3 M   ,,1
+97,Patchcore @ 30 M - FO  SC/PC - SC/APC 30 M   ,,1
+98,Patchcore @ 10 M - FO  FC/APC - SC/APC D 10 M   ,,1
+99,Patchcore @ 30 M - FO   LC/LC - LC/LC D 30 M   ,,1
+100,Patchcore @ 20 M - FO   FC/APC-SC/APC 20 M   ,,1
+101,Pigtail @ 1.5 M - FO  FC/APC 1.5 M   ,,1
+102,Pigtail @ 14.5 M - FO  FC/APC 14.5 M   ,,1
+103,Pigtail @ 4.5 M - FO  FC/APC 4.5 M   ,,1
+104,Pigtail @ 1.5 M - FO  FC/PC 1.5 M   ,,1
+105,Pigtail @ 5 M - FO  FC/PC 5 M   ,,1
+106,Pigtail @ 2 M - FO  FC/PC 2 M   ,,1
+107,Pigtail @ 1.5 M - FO  SC/PC 1.5 M   ,,1
+108,Pigtail @ 1.5 M - FO  SC/PC 2 M   ,,1
+109,Pigtail @ 3 M - FO  FC/PC 3 M   ,,1
+110,"Pipa Galvanise 1""  GLV 1 - 6   ",,1
+111,"Pipa Galvanise 1.5""  GLV 1.5 - 6   ",,1
+112,"Pipa Galvanise 2""  GLV 2 - 6   ",,1
+113,"Pipa Galvanise 3/4""  GLV 3/4 - 6   ",,1
+114,"Pipa PVC 1"" @ 4 M  PVC 1 - 4   Aqualon",,1
+115,"Pipa PVC 1.5"" @4 M  PVC 1 - 1.5   ",,1
+116,"Pipa PVC 5""@4 M  PVC 1 - 5   ",,1
+117,Pipa PVC 25mm@4 M  PVC 1 - 25 MM   ,,1
+118,"Pipa PVC 3-4""  PVC 1 - 3/4   ",,1
+119,Pipa Conduit 20 MM @ 4 M  CDT 20 MM   Clipsal,,1
+120,Pipa Subduct Hitam  ( 28 x 32 )  PSH 28 X 32   ,,1
+121,Pipa Subdust Kuning ( 40 X 34 )  PSK 40 X 34   ,,1
+122,Pipa Subduct Orange ( 40 X 34 )  PSO 40 X 34   ,,1
+123,Protector Sleave  P - SLV   ,,1
+124,Rack 12U dpth 470 mm Mounted  R 12 U M   ,,1
+125,Span Schoor 10 mm  S - SCHR 10 MM   ,,1
+126,Span Schoor 12 mm  S - SCHR 12 MM   ,,1
+127,Steel band  STEEL - B   ,,1
+128,Stopping   STP   ,,1
+129,Shock Conduit      ,,1
+130,Terminal Box BPL  TB - BPL   ,,1
+131,Tiang 7 Meter  PL 7 M   Beton ,,1
+132,Tiang 7 Meter  PL 7 M   Besi ,,1
+133,Tiang 9 Meter  PL 9 M   Besi ,,1
+134,W Cable Connector  W - CBL    ,,1
+135,Kawat Label   KWT LABEL    ,,1

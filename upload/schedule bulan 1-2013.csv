@@ -1,0 +1,386 @@
+NIP,Employee Name,month,year,d1,d2,d3,d4,d5,d6,d7,d8,d9,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
+1001,Teguh Sumaryadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1002,Nus Irwansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1003,M. Tauchid,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1004,Tri Junarso,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1005,Yana Suharyana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1006,Sutrisno,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1007,Iwan Sumediono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1009,Edi Prawoto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1010,P Budi Hadi Yuwono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1011,Rusnadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1012,Hardian Rukmanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1013,Erwin Hartawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1014,Nur Cahyo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1015,Affil Fahril,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1016,M. Aristianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1017,Hasyim,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1019,Iswan Priyatna,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1020,Andhika P.W,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1021,Jungjungan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1022,Abu Rizal Bakti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1023,Heri Supriyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1025,Hasbel Sawin Siahaan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1026,Rahmat Hidayat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1050,Andy Sugandhi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1051,Rily Mala.Z,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1052,Eka Pratiwi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1053,Mamik Suryani,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1054,Erry Safari,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1055,Arief Ciptono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1056,James Situmorang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1057,Iin Muttaqin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1058,Zakaria Prihatin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1059,Sandi Pamungkas,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1060,Kristian Ayu Dewi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1061,Puji Astuti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1062,Eko Riyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1063,Ferdhy Faisal,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1064,Mario Valentino,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1065,Suharto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1066,Iwan Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1067,Adi Rosadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1068,Bondan Wardoyo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1069,Johansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1074,Didi Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1086,Hasyim Suryana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1098,Yudo Handoko,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1099,Septi Choirunnisa,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1100,Ratna Putri Riyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1101,Riska Effendi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1103,Aep Saepul,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1104,Saleh Sudrajat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1105,Denny Cicio Putra,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1106,Muhammad Idat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1107,Herliza Simanjuntak,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1109,Suprapto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1110,Yuliana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1111,Fajar Widaryanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1112,Maegeri utaminigsih,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1113,Herbinton,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1114,1114,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1115,Lie Kwan You,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1116,Tri Sutrisna,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1118,M . Ravi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1169,Ismail,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1170,Andri,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1171,Abu Qosim,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1173,Aris Muzaki,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1174,Wahyu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1175,Adi Sucipto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1176,Panji Nugroho,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1177,Abi Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1178,Herman Ismail,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1179,Sulaiman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1180,Alif F Dudin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1181,Aceng Suparman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1182,Piter Sinaga,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1183,German Parlindungan.S,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1184,Suharto 2,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1185,Agus Suyudi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1186,Desy Marantini,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1187,Wilson Sinaga,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1188,Khairul Ihwan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1189,Deis Ahmadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1190,M.Rosidi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1191,Bambang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1192,Mahpuzi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1193,Aan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1194,Dian Iskandar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1195,Suriansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1196,Wawan Ridwan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1197,Olivernando,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1198,Sefriawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1199,Dedi Junaedi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1200,Kasbel Situmorang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1201,Tri Noviyanti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1202,Musslih Yulianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1203,Senna Suryana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1204,Reni Retnowaty,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1205,Bernadus Hardian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1206,Mardiyan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1207,Idris,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1208,Nurul ardianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1209,Laurentius Situmorang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1210,Fachruroji,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1211,Nur Hidayah Saptaningsih,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1212,Nurul Fathia,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1213,Sugiyono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1214,Rollin Yosandre,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1215,Endang Kusnadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1216,Fahmi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1217,Siswadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1218,Heny Sirait,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1219,Bintang Rizki,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1220,Misbach,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1221,Sanusi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1222,Iwan Munawir,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1223,Naufal,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1224,Fredi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1225,Purwanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1227,Luki Yuspita,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1228,Josua Onggung Rumintar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1229,Dwi Indro,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1230,Agus Herlan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1231,Ridwan Maulana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1232,Saprudin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1233,Agus Sungkoro,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1234,Maman Suratman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1235,Yogi Rahayu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1236,Rahmat Hidayat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1237,Fernando,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1238,Naufal,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1239,Dedy,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1240,Fery,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1241,Rizki,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1242,Hambali,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1243,Abdul Rohman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1244,Juster Sinaga,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1245,Hotbil,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1246,Antoko,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1247,Andri yanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1248,Ujang Saepulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1249,Romula M.Damanik,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1250,Ichwan Nurohman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1251,Lukman Hakim,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1252,Floren Manurung,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1253,Welinda,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1254,Riko Ismeldi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1255,Septia Amelia,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1256,Sondang Silaen,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1257,Bambang Adi S,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1258,Purnomo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1259,Darmawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1260,Bambang Kris,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1261,Euis Maeryani,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1262,Abdul Kohar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1263,Nasrun Nabawi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1264,M.Idris alfandi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1265,Ahmad Sofyian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1266,Dirin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1267,Maygerl,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1268,Danu Permana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1269,Fandhy,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1270,Heri Hermanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1271,Rotu Bintang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1272,Handri Hamdani,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1273,Trisna Edward,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1274,Muslichin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1275,Redy Fajar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1276,Alim Muslimin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1277,Budiarjo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1278,Farouk Alfisahar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1279,Sudiatmo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1280,Andri Herdian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1281,Elly,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1282,Jumadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1283,Iwan S,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1284,Jentro pane,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1285,Aristianto B,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1286,Nur Sholeh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1287,Rokiyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1288,Dede Nur Latifah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1289,Eliver Pasaribu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1290,Frida,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1291,Marsudi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1292,Tambar Muryoko,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1293,Herbinton,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1294,Dodi Damhuri,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1295,Firmansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1296,Yudi Bintoro,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1297,Dewi Sulistiyaningsih,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1298,Deni Akbar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1299,Ai Munadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1300,Dede Hari Budiman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1301,Peter Pasca,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1302,Anggie Bonarangga,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1303,Abdul Rosyid,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1304,Ridwan Nurhidayat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1305,Darsono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1306,Mulyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1307,Intan Dwi Pangestu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1308,Sari,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1309,Oktiadi Hermana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1310,Sahroni,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1311,Toni Sugiyarto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1312,Aryulza Ronny,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1313,Sima Ladfy R,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1314,Debi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1315,Ady Supriyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1316,Andi Ahmad,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1317,Dheni Muhamad,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1318,Kahfi Adam Pratama,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1319,Zanwar Arifin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1320,Agun Sugandi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1321,Afrizal B,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1322,Abdi Simatupang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1323,M.Syafrizal,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1324,Veri Vebrian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1325,Supriyono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1326,Hendra Edward,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1327,Nickey Katamsi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1328,Imam Rsutiansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1329,Musfiq Amrulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1330,Zaenal Arifin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1331,Ferry AS,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1332,Syarif Hidayatulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1333,Misno,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1334,Nickey Katamsi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1335,Durotun N,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1336,Mahda F,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1337,Mardiana P,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1338,Siti F,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1339,Nur ali,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1340,Ariyantaro,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1341,Azwil,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1342,Iwannn,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1343,NurHasim,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1344,Guntur Lynardo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1345,Syuhada,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1346,Rusdi P,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1347,Edi suhardi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1348,Agus Suyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1349,Steza,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1350,Roesmono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1351,Budi Rahmanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1352,Katter,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1353,Kater,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1354,Aris Widiatmoko,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1355,Subagio,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1356,Victor Sitohang,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1357,Yafet,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1358,Dedi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1359,Ardi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1360,Ahmad Nuryadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1361,Umaidi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1362,Anton,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1363,Fajar Subuh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1364,Sri Astuti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1365,Habil,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1366,Dion,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1367,Hilda Safitria,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1368,Ahmad Ridwan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1369,Rafles,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1370,Agung Wahyudi 2,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1371,Budi Kusdoyo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1372,Maksum,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1373,Kevin Klein,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1374,Andreas,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1375,Ugy Wicaksono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1376,LAODE NIO,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1377,Ahmad Rully,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1378,Abdul Kodir,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1379,Andri Setya U,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1380,Fiqih Hidayat,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1381,Feri Krisdianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1382,Ary Syeh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1383,Husni,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1384,Nuridin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1385,Toni Pratono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1386,Galih,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1387,Afianto N,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1388,Ahmad Al-Farobi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1389,Irpan H,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1390,Khoirunnisa,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1391,Nasrulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1392,Anjas Lukmana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1393,Spriyanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1394,Khairul Umam,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1395,Ramdan Tamara,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1396,Wahyu Budi W,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1397,Purbo Kencono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1398,Andri Oktavian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1399,Hasdi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1400,Firmansyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1401,Juwanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1402,Ubaidillah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1403,Nurhasan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1404,M.Nursapta Hadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1405,Eko Yulianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1406,Hernandia,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1407,Indri Widiastuti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1408,Helmi Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1409,Fajar,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1410,Mahrij,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1411,Lujeng S,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1412,Soeryono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1413,Partono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1414,Chandra,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1415,Agus Arya Sutapan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1416,Asgeir Vande,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1417,Panji Riyadi PL,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1418,Dewinta,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1419,Rindrawati,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1420,Asih,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1421,M.Yasin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1422,Irkham,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1423,Wahyudin,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1424,Sri Novianti,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1425,Nanang K,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1426,Mustofa,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1427,Sandi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1428,Budi Mulyono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1429,Tomy Prasetyo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1430,Fajar Kurniadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1431,Tahroni,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1432,Otong Sutisna,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1433,Suratman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1434,Agus Biantoro,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1435,Lutfan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1436,Herman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1437,eriyan  Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1438,Roby Afriyan L,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1439,M . Heriyanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1440,Matahari,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1441,Hasta Adi Gunawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1442,Arif Rahman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1443,David Pranata,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1444,Nurul Choiriyah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1445,Ehwan Muhtiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1446,Ni'matul Inayah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1447,Susilawati,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1448,Daroji Setiawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1449,Arief Handoko,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1450,Dimasari Prasetyo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1451,Anggoro Wahyu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1452,Devi Christian,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1453,Andhini Puspasari,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1454,Imam Sujono,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1455,Andhi Rubianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1456,Emmilda Kresnawati,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1457,Noor Ikhvan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1458,Andhi Andharu,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1459,Herdiyanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1460,Adyson Utina,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1461,Dedi Supriadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1462,Risto Harjo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1463,Agung Sanjaya,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1464,Sutrisno Mulyadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1465,Dani Saputra,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1466,Rizki Andri S,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1467,Hidayatulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1468,Novian Hartanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1469,Nurul Afidah,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1470,Aldila Devi P,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1471,Suryadi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1472,Gunawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1473,Teguh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1474,Saripudin B,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1475,Nurul Silvi A,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1476,Lika Reni,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1477,Baran,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1478,Nurul Silvi,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1479,Rizki Arif Zulkarnaen,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1480,Elizabeth Gultom,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1481,Yanto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1482,Suparno,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1483,Suryana,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1484,Suherman,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1485,Sularjo,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1486,Charis Afianto,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1487,Hananto Nugroho,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1488,Tomy,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1489,Marzuki,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1490,Sumarno,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1491,Muhammad Syaifulloh,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*
+1492,Hendrawan,1,2013,N,N,L,L,N,N,N,N,N,L,L,N,N,N,L,N,L,L,N,N,N,N,L,L,L,N,N,N,*,*,*

@@ -1,0 +1,8 @@
+accountid,accountcode,accountname,parentaccountid,currencyid,recordstatus
+206,7200.02,Biaya Adm Bank & Buku Cek/Giro,,40,1
+207,7200.03,Pajak Jasa Giro,,40,1
+208,7200.05,Biaya bunga lease,,40,1
+209,7200.99,Beban Lain-Lain,,40,1
+210,7300,Selisih kurs ,,40,1
+211,7400,Gain/Loss Revaluation FA,,40,1
+212,7500,Biaya Denda,,40,1

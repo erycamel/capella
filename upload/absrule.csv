@@ -1,0 +1,30 @@
+"absruleid","absschedule","difftimein","difftimeout","absstatus","recordstatus"
+"1","Masuk Normal",00:00,07:59,"H",1
+"2","Masuk Normal",08:00,14:00,"DT",1
+"3","Masuk Normal",14:01,16:59,"PC",1
+"4","Masuk Normal",17:00,23:59,"H",1
+"5","Shift 1 NOC & Helpdesk",00:00,06:29,"H",1
+"6","Shift 1 NOC & Helpdesk",06:30,12:00,"DT",1
+"7","Shift 1 NOC & Helpdesk",12:01,14:29,"PC",1
+"8","Shift 1 NOC & Helpdesk",14:30,23:59,"H",1
+"9","Shift 2 NOC & Helpdesk",00:00,13:29,"H",1
+"10","Shift 2 NOC & Helpdesk",13:30,19:29,"DT",1
+"11","Shift 2 NOC & Helpdesk",19:30,21:29,"PC",1
+"12","Shift 2 NOC & Helpdesk",21:30,23:59,"H",1
+"13","Shift 3 NOC & Helpdesk",13:31,20:29,"H",1
+"14","Shift 3 NOC & Helpdesk",20:30,23:59,"DT",1
+"15","Shift 3 NOC & Helpdesk",00:00,03:00,"DT",1
+"16","Shift 3 NOC & Helpdesk",03:01,07:29,"PC",1
+"17","Shift 3 NOC & Helpdesk",07:30,13:30,"H",1
+"18","Shift 1 E-Payment",00:00,06:59,"H",1
+"19","Shift 1 E-Payment",07:00,11:00,"DT",1
+"20","Shift 1 E-Payment",11:01,13:59,"PC",1
+"21","Shift 1 E-Payment",14:00,23:59,"H",1
+"22","Shift 2 E-Payment",00:00,12:59,"H",1
+"23","Shift 2 E-Payment",13:00,19:00,"DT",1
+"24","Shift 2 E-Payment",19:01,21:59,"PC",1
+"25","Shift 2 E-Payment",22:00,23:59,"H",1
+"26","Masuk Bulan Puasa",00:00,07:14,"H",1
+"27","Masuk Bulan Puasa",07:15,13:15,"DT",1
+"28","Masuk Bulan Puasa",13:16,15:44,"PC",1
+"29","Masuk Bulan Puasa",15:45,23:59,"H",1

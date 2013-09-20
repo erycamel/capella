@@ -1,0 +1,136 @@
+productid,productname,productpic,recordstatus
+136,"19 "", Centilever Shelt Delft 360 MM,2U  CLV   ",,1
+137,2 Way Divider  SPL 2 DX   DX,,1
+138,AC Colling Fan  ACF   ,,1
+139,Adapter F Female  F TYPE   ,,1
+140,Adapter F Male To BNC Female  F/M - BNC/F   ,,1
+141,Adapter F To F  F To F   ,,1
+142,Adapter Pin To F  PIN TF   ,,1
+143,Adapter RCA TO RCA Female  RCA/M- RCA/F   ,,1
+144,Adapter RG 45  RG 45   AMP,,1
+145,Adapter TO BNC ( BNC TO RCA )  BNC - RCA    ,,1
+146,"AMP,D Type Connector 15 Pin  D TYPE 15 PIN   ",,1
+147,"AMP,D Type Connector 9 Pin  D TYPE 9 PIN   ",,1
+148,Amplifier  AMP C - COR   C - COR ,,1
+149,Amplifier   AMP ACI   ACI ,,1
+150,Attenuator 1 dB  ATTN 1 - FO   ,,1
+151,Attenuator 2 dB  ATTN 2 - FO   ,,1
+152,Attenuator 3 dB  ATTN 3 - FO   ,,1
+153,Attenuator 4 dB  ATTN 4 - FO   ,,1
+154,Attenuator 5 dB  ATTN 5 - FO   ,,1
+155,Attenuator 6 dB  ATTN 6 - FO   ,,1
+156,Attenuator 7 dB  ATTN 7 - FO   ,,1
+157,Batang Grounding 1 Meter  B - GRD 1 M   ,,1
+158,Batang Grounding 2 Meter  B - GRD 2 M   ,,1
+159,Blank Panel 1 U     ,,1
+160,BNC Terminator  BNC T   ,,1
+161,BNC To BNC  BNC-  BNC   ,,1
+162,Cable Protector  CBL PRT   ,,1
+163,Cable RG 6  C RG 6 CMR   Camira ,,1
+164,Canare Pin Plug  ( Audio Cable ) ( Kuning )  RCA AV K   CANARE,,1
+165,Canare Pin Plug  ( Audio Cable ) ( Putih )  RCA AV P   CANARE,,1
+166,CHP-SMM-1 CHP MAX5000 SYSTEM MANAGEMENT MODU  A360.19.1   C-COR Boadband,,1
+167,Connector 5C  CNT 5C   ,,1
+168,Connector RG 11  CNT RG 11   ,,1
+169,Cable Belden      ,,1
+170,"Cable 24 Core, SM      Datwayler ",,1
+171,Head End      Kaicom,,1
+172,Directional Coupler     Kaicom,,1
+173,Digital Splitter 12 Way  SPL 12 WAY   ,,1
+174,Extention  EXT   ,,1
+175,F Terminator  F TMN   ,,1
+176,Fiber Node   FN PA - 16801   C - COR ,,1
+177,Fiber Optic Receiver SC/ APC 220V/6V DC 862 Mhz  FN BKTEL   BKTEL,,1
+178,Freight & Handling Charge  RREIGTH CHARGE   ,,1
+179,Housing To Housing  HTH   CHANNEL,,1
+180,I Connector   I CNT   ,,1
+181,Jeck   JECK   ,,1
+182,Kabel  Power NYM 3x25     ,,1
+183,Kabel Eterna 4x25     ,,1
+184,Kabel Vycom 2x1.5     ,,1
+185,MBCP - C4F ( BNC Connector  )  MBCP - C4F   Canare ,,1
+186,Mini Fiber Node   FN HMW   HOMEWOR,,1
+187,Modulator C1000 - UVM  MDL   ZINWELL,,1
+188,Mono Phone Plug ( NP2C )  NP2C   Neutrix,,1
+189,Monster  MNS   ,,1
+190,Ninety Degrees  N - DGRS   ,,1
+191,"Patchcore  ST TO SC Connector 62,5UM Multimode  ST TO SC MM   ",,1
+192,Patchcore ST TO LC Multimode  ST TO LC MM   ,,1
+193,PCT F Type Connector For  RG 6  CNT RG 6   ,,1
+194,Pedestal Amplifier  PDT AMP   ,,1
+195,Pedestal Tap  PDT TAP   ,,1
+196,Pin Connector 500  PIN 500   ,,1
+197,Pin Connectro 625  PIN 625   ,,1
+198,"PPC, F Type Connector For RG 6  F TYPE RG 6   PPC",,1
+199,RCA    RCA   CANARE,,1
+200,RCA Combiner  RCA CMB   CANARE,,1
+201,RCA Pin Plug ( Video Cable )  RCA NCM   Nacamichi,,1
+202,RF Attenuator 10 DB  ATTN 10 - RF   ,,1
+203,RF Attenuator 20 DB  ATTN 20 - RF   ,,1
+204,RF Attenuator 16 DB  ATTN 16 - RF   ,,1
+205,RF Attenuator 6 DB  ATTN  6 - RF   ,,1
+206,Schuun 5 mm  SCHN 5   ,,1
+207,Schuun Kecil O  SCHN O   ,,1
+208,Schuun Kecil U  SCHN U   ,,1
+209,Shelf Interconnect cable  A360.1.6   ,,1
+210,Splice Optic 45 : 55 SC/PC Connector  SPL SC/PC   ,,1
+211,Splice Optic 50 : 49 FC/APC Connector  SPL FC/APC   ,,1
+212,Splice Optic 50 : 50 SC/APC Connector  SPLC SC/APC   ,,1
+213,Splice Optic 50 : 50 SC/PC Connector  SPLC SC/PC   ,,1
+214,Splitter 2 Way  SPL 2 CMR   Camira ,,1
+215,Splitter 2 Way  SPL 2 IKS   Ikusi,,1
+216,Splitter 4 Way  SPL 4 IKS   Ikusi,,1
+217,Splitter 4 Way  SPL 4 MTX   Matrix,,1
+218,"ST SM / MM SIMPLEX Adapter, Metal  BL FC RSG   Rosenberger",,1
+219,Termonator plug for daisy chain  A360.1.5   ,,1
+220,TV Adapter  ADP TV   ,,1
+221,V K ( Channel Filter  )  V - K   Astro,,1
+222,VSF 42 SAT Distribution Passive 2 X 1 IN 4  VSF 42   Astro,,1
+223,W Conector Cable  W CNC CBL   ,,1
+224,Patchcore @ 3 M - FO  LC/PC - SC/PC 3 M (Duplex)   ,,1
+225,Patchcore @ 3 M - FO  SC/PC - SC/PC 3 M 62.5 um (Duplex)   ,,1
+226,Patchcore @ 2 M - FO  SC/PC - SC/PC 2 M   ,,1
+227,Patchcore @ 10 M - FO  FC/PC - SC/PC 10 M   ,,1
+228,Patchcore @ 5M - FO  SC/APC-SC/PC 5M (Duplex)   ,,1
+229,Patchcore @ 3 M - FO  SC/APC-SC/APC 3 M (Duplex)   ,,1
+230,Patchcore @ 3 M - FO  SC/APC - SC/APC 3 M   ,,1
+231,Patchcore @ 3 M - FO  ST/PC - ST/PC D 3 M   ,,1
+232,Patchcore @ 30 M - FO  SC/PC - SC/APC 30 M   ,,1
+233,Patchcore @ 10 M - FO  FC/APC - SC/APC D 10 M   ,,1
+234,Patchcore @ 30 M - FO   LC/LC - LC/LC D 30 M   ,,1
+235,Patchcore @ 20 M - FO   FC/APC-SC/APC 20 M   ,,1
+236,Pigtail @ 1.5 M - FO  FC/APC 1.5 M   ,,1
+237,Pigtail @ 14.5 M - FO  FC/APC 14.5 M   ,,1
+238,Pigtail @ 4.5 M - FO  FC/APC 4.5 M   ,,1
+239,Pigtail @ 1.5 M - FO  FC/PC 1.5 M   ,,1
+240,Pigtail @ 5 M - FO  FC/PC 5 M   ,,1
+241,Pigtail @ 2 M - FO  FC/PC 2 M   ,,1
+242,Pigtail @ 1.5 M - FO  SC/PC 1.5 M   ,,1
+243,Pigtail @ 1.5 M - FO  SC/PC 2 M   ,,1
+244,Pigtail @ 3 M - FO  FC/PC 3 M   ,,1
+245,"Pipa Galvanise 1""  GLV 1 - 6   ",,1
+246,"Pipa Galvanise 1.5""  GLV 1.5 - 6   ",,1
+247,"Pipa Galvanise 2""  GLV 2 - 6   ",,1
+248,"Pipa Galvanise 3/4""  GLV 3/4 - 6   ",,1
+249,"Pipa PVC 1"" @ 4 M  PVC 1 - 4   Aqualon",,1
+250,"Pipa PVC 1.5"" @4 M  PVC 1 - 1.5   ",,1
+251,"Pipa PVC 5""@4 M  PVC 1 - 5   ",,1
+252,Pipa PVC 25mm@4 M  PVC 1 - 25 MM   ,,1
+253,"Pipa PVC 3-4""  PVC 1 - 3/4   ",,1
+254,Pipa Conduit 20 MM @ 4 M  CDT 20 MM   Clipsal,,1
+255,Pipa Subduct Hitam  ( 28 x 32 )  PSH 28 X 32   ,,1
+256,Pipa Subdust Kuning ( 40 X 34 )  PSK 40 X 34   ,,1
+257,Pipa Subduct Orange ( 40 X 34 )  PSO 40 X 34   ,,1
+258,Protector Sleave  P - SLV   ,,1
+259,Rack 12U dpth 470 mm Mounted  R 12 U M   ,,1
+260,Span Schoor 10 mm  S - SCHR 10 MM   ,,1
+261,Span Schoor 12 mm  S - SCHR 12 MM   ,,1
+262,Steel band  STEEL - B   ,,1
+263,Stopping   STP   ,,1
+264,Shock Conduit      ,,1
+265,Terminal Box BPL  TB - BPL   ,,1
+266,Tiang 7 Meter  PL 7 M   Beton ,,1
+267,Tiang 7 Meter  PL 7 M   Besi ,,1
+268,Tiang 9 Meter  PL 9 M   Besi ,,1
+269,W Cable Connector  W - CBL    ,,1
+270,Kawat Label   KWT LABEL    ,,1
